@@ -1,0 +1,12 @@
+/* Lane styles */
+.Lane{
+    width: 30%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    border:2px solid rgb(32, 108, 231);
+    padding:10px;
+    position:relative;
+}
+
+
